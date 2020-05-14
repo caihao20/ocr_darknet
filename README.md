@@ -1,0 +1,1 @@
+基于darknet_ocr的图像文本提取，结合Django部署提供接口Api
